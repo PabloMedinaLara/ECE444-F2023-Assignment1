@@ -1,1 +1,1 @@
-print("Hello World")
+print("Four years at U of T")
